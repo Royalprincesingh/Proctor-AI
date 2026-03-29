@@ -396,7 +396,46 @@ This project is **proprietary and confidential**. All rights reserved.
 
 ---
 
-## 📞 Support & Contact
+## � Other Notable Projects
+
+### 📦 Inventory Pro - Enterprise Inventory Management System
+**Full Stack | Node.js | React | Firebase**
+
+An enterprise-grade inventory tracking system with integrated barcode scanning and real-time stock orchestration.
+
+**Key Features:**
+- 📱 Mobile-responsive barcode scanning interface
+- 🔄 Real-time inventory synchronization
+- 📊 Complex state management for large datasets
+- 📈 Advanced analytics and reporting
+- 🎯 Multi-warehouse support
+
+**Tech Stack:** React, Node.js, Firebase Real-time Database, Barcode Scanner APIs
+
+**Repository:** [GitHub](https://github.com/Royalprincesingh/inventory-pro) | **Live Demo:** [Visit](https://inventory-pro.vercel.app)
+
+---
+
+### 📝 Modern Tech Blog - High-Performance Developer Blog
+**Static Site Generation | Astro | React | Markdown**
+
+A high-performance developer blog platform optimized for SEO and lightning-fast content delivery using modern static site generation.
+
+**Key Features:**
+- ⚡ Perfect Lighthouse score via Static Site Generation (100/100)
+- 📝 Markdown-based workflow for rapid content creation
+- 🔍 Advanced SEO with automated meta-tag generation
+- 📱 Fully responsive design with dark mode support
+- 🚀 Lightning-fast page load times (< 1s)
+- 💬 Built-in commenting and social sharing
+
+**Tech Stack:** Astro, React, Markdown, Tailwind CSS
+
+**Repository:** [GitHub](https://github.com/Royalprincesingh/tech-blog) | **Live Demo:** [Visit](https://tech-blog.vercel.app)
+
+---
+
+## �📞 Support & Contact
 
 - **Issues & Bugs:** [Open an issue](https://github.com/Royalprincesingh/Proctor-AI/issues)
 - **Discussions:** [GitHub Discussions](https://github.com/Royalprincesingh/Proctor-AI/discussions)
