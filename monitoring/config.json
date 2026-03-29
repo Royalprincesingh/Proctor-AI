@@ -1,0 +1,36 @@
+{
+  "api_url": "http://localhost:5001/api",
+  "student_id": "test_student",
+  "exam_id": "test_exam",
+  "monitoring_duration": 3600,
+  "face_detection": {
+    "enable_recognition": true,
+    "confidence_threshold": 0.6,
+    "max_faces_allowed": 1,
+    "frame_skip_rate": 30
+  },
+  "screen_monitoring": {
+    "capture_interval": 2,
+    "screenshot_interval": 30,
+    "enable_tab_detection": true,
+    "change_threshold": 70
+  },
+  "audio_monitoring": {
+    "sample_rate": 44100,
+    "chunk_size": 1024,
+    "silence_threshold": 500,
+    "voice_threshold": 1000,
+    "max_silence_seconds": 7
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "monitoring.log",
+    "max_file_size": 10485760,
+    "backup_count": 5
+  },
+  "performance": {
+    "max_cpu_usage": 50,
+    "max_memory_mb": 700,
+    "network_timeout": 30
+  }
+}

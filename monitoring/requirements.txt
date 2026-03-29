@@ -1,0 +1,35 @@
+# ProctorAI Python Monitoring Requirements
+# Install with: pip install -r requirements.txt
+
+# Computer Vision & Face Detection
+opencv-python==4.8.1.78
+dlib==19.24.2
+numpy==1.24.3
+Pillow==10.0.1
+
+# Screen Capture
+mss==9.0.1
+pyautogui==0.9.54
+
+# Audio Processing
+pyaudio==0.2.13
+scipy==1.11.3
+
+# Networking & APIs
+requests==2.31.0
+
+# Development & Logging
+pytest==7.4.0
+black==23.7.0
+flake8==6.0.0
+
+# Machine Learning (Optional - for advanced features)
+scikit-learn==1.3.0
+tensorflow==2.13.0
+torch==2.0.1
+torchvision==0.15.2
+
+# Additional Utilities
+python-dotenv==1.0.0
+schedule==1.2.0
+psutil==5.9.5
